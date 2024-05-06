@@ -1,7 +1,7 @@
 # Platforner UE5
 The goal of the project is to develop a 3D platformer coded in blueprint in Unreal Engine 5.
 
-# Looks of the game
+# Look of the game
 * ![Screenshot](https://cdn.discordapp.com/attachments/1020661630700355676/1166319383472259163/Capture_decran_2023-10-24_121615.png?ex=6639ff92&is=6638ae12&hm=8a470e10c5f6dfbfbc1297257893642e3674b89af0840edd5ad17607a45df623&)
 
 ## Summary
