@@ -1,0 +1,1 @@
+https://github.com/CleanCut/UE4StyleGuide
